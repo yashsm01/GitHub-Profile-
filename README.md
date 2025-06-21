@@ -24,7 +24,9 @@
 
 > _When IoT meets real-world manufacturing_ 🦾
 
-[![MG Project](./images/img1.png)](https://angular-mm.web.app/login)
+<a href="https://angular-mm.web.app/login">
+  <img src="./images/img1.png" alt="MG Project" height="200">
+</a>
 
 **🛠️ Tech Stack:** `Angular` `Node.js` `MindSphere` `Node-RED` `MSSQL`
 **🌐 Live Demo:** [angular-mm.web.app](https://angular-mm.web.app/login)
@@ -36,7 +38,9 @@ _🔒 NDA Protected - Sample demo available_
 
 > _Making crypto markets my playground_ 📈💰
 
-[![STRADDL3](./images/img2.png)](https://github.com/yashsm01/TreadBot)
+<a href="https://github.com/yashsm01/TreadBot">
+  <img src="./images/img2.png" alt="STRADDL3" height="200">
+</a>
 
 **🛠️ Tech Stack:** `Python` `Solana` `Next.js` `PostgreSQL` `Telegram Bot`
 **📱 GitHub:** [TreadBot Repository](https://github.com/yashsm01/TreadBot)
@@ -49,7 +53,9 @@ _This bot doesn't just trade - it DOMINATES_ 💪
 
 > _Scalability? We don't know her_ ♾️
 
-[![E-Commerce](https://opengraph.githubassets.com/1/Microservices2102/E-Commerce)](https://github.com/Microservices2102/E-Commerce)
+<a href="https://github.com/Microservices2102/E-Commerce">
+  <img src="https://opengraph.githubassets.com/1/Microservices2102/E-Commerce" alt="E-Commerce" height="200">
+</a>
 
 **🛠️ Tech Stack:** `Docker` `Kafka` `Node.js` `TypeScript` `Next.js`
 **🔗 GitHub:** [E-Commerce Repository](https://github.com/Microservices2102/E-Commerce)
@@ -81,8 +87,8 @@ _🔒 Enterprise-grade, naturally_
 ## 🎯 **Let's Connect & Build Something Insane**
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-modi-748817190/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/yashsm21)
 
 ### _"Code is poetry, and I'm writing epics"_ 📝✨
 
