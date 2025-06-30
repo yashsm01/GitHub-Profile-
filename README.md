@@ -34,7 +34,7 @@ _🔒 NDA Protected - Sample demo available_
 
 ---
 
-### 🤖 **STRADDL3 - AI Trading Beast**
+### 🤖 **STRADDL3 - AI Trading Bot**
 
 > _Making crypto markets my playground_ 📈💰
 
